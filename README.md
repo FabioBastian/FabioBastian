@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-bastian-05a863169/)
 
-<div style="display: flex; justify-content: center;"">
+<div style="display: flex; justify-content: center;">
   <img style="height: 10em;" src="https://github-readme-stats.vercel.app/api?username=FabioBastian&show_icons=true&theme=dracula" alt="Fábio Júnior Nielsson Bastian' GithHub Stats">
   <img style="height: 10em;" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioBastian&layout=donut&theme=dracula" alt="Most Used Languages">
 </div>
