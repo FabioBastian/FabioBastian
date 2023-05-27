@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá!! Eu sou o Fábio Bastian
 
-<!--
-**FabioBastian/FabioBastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-bastian-05a863169/)
 
-Here are some ideas to get you started:
+<div style="align-items: center;">
+  <img style="height: 15em;" src="https://github-readme-stats.vercel.app/api?username=FabioBastian&show_icons=true&theme=dracula" alt="Fábio Júnior Nielsson Bastian' GithHub Stats">
+  <img style="height: 15em;" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioBastian&layout=donut&theme=dracula" alt="Most Used Languages">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais Tecnologias:
+
+<div style="display: inline_block;"><br>
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="Spring">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="Postgres">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySql">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="CS">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="DotNet">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git">
+  <img style="width: 4em;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman">
+</div><br>
+
+## Lista Desordenada
+
+- [item](https://link.com)
+- [item](https://link.com)
